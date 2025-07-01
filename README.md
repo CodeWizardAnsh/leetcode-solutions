@@ -6,10 +6,12 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0027-remove-element) |
 | [0958-sort-array-by-parity-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0027-remove-element) |
 | [0958-sort-array-by-parity-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
 ## Sorting
 |  |
