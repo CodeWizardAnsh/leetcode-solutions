@@ -8,12 +8,14 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | ------- |
 | [0027-remove-element](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0027-remove-element) |
 | [0137-single-number-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0283-move-zeroes](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0958-sort-array-by-parity-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0958-sort-array-by-parity-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
 ## Sorting
 |  |
