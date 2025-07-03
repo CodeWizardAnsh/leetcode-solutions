@@ -29,6 +29,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -45,6 +46,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0136-single-number](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0338-counting-bits) |
 ## Math
 |  |
 | ------- |
