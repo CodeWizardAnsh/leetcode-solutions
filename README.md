@@ -40,16 +40,26 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
