@@ -1,18 +1,11 @@
 class Solution {
-    int total = 0;
-
     public int subsetXORSum(int[] nums) {
-        dfs(nums, 0, 0);
-        return total;
+        return findXorTotal(nums,0,0);
     }
-
-    void dfs(int[] nums, int index, int currentXOR) {
-        if (index == nums.length) {
-            total += currentXOR;
-            return;
-        }
-        dfs(nums, index + 1, currentXOR ^ nums[index]);
-        
-        dfs(nums, index + 1, currentXOR);
+    public int findXorTotal(int[] nums,int index, int xor){
+        if(index==nums.length) return xor;
+        int pick= findXorTotal(nums,index+1,xor^nums[index]);
+        int noPick = findXorTotal(nums,index+1,xor);
+        return pick+noPick;
     }
 }
