@@ -47,6 +47,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0137-single-number-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0461-hamming-distance](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0461-hamming-distance) |
 ## Math
 |  |
 | ------- |
