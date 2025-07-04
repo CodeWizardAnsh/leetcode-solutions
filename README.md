@@ -68,6 +68,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
+| [1205-defanging-an-ip-address](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 ## Simulation
 |  |
 | ------- |
