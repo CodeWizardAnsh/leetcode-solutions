@@ -43,6 +43,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -53,6 +54,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0231-power-of-two) |
