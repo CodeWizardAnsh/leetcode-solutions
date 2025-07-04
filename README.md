@@ -71,6 +71,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
 | [1205-defanging-an-ip-address](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1651-shuffle-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1651-shuffle-string) |
+| [1797-goal-parser-interpretation](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
 ## Simulation
 |  |
 | ------- |
