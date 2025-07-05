@@ -3,18 +3,15 @@ class Solution {
         int vertical = 0;
         int horizontal = 0;
 
-        for (char c : moves.toCharArray()) {
-            if (c == 'U')
-                vertical++;
-            else if (c == 'D')
-                vertical--;
-            else if (c == 'L')
-                horizontal--;
-            else if (c == 'R')
-                horizontal++;
+        for (char move : moves.toCharArray()) {
+            switch (move) {
+                case 'U': vertical++; break;
+                case 'D': vertical--; break;
+                case 'L': horizontal--; break;
+                case 'R': horizontal++; break;
+            }
         }
 
         return vertical == 0 && horizontal == 0;
-
     }
 }
