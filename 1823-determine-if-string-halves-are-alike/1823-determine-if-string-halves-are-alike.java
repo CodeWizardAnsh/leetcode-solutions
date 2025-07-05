@@ -1,21 +1,22 @@
 class Solution {
     public boolean halvesAreAlike(String s) {
-        int n = s.length();
-        int count1 = 0, count2 = 0;
+        int length = s.length();
+        int half = length / 2;
 
-        for (int i = 0; i < n / 2; i++) {
-            if (isVowel(s.charAt(i))) {
-                count1++;
+        int vowelsInFirstHalf = countVowels(s.substring(0, half));
+        int vowelsInSecondHalf = countVowels(s.substring(half));
+
+        return vowelsInFirstHalf == vowelsInSecondHalf;
+    }
+
+    private int countVowels(String str) {
+        int count = 0;
+        for (char c : str.toCharArray()) {
+            if (isVowel(c)) {
+                count++;
             }
         }
-
-        for (int i = n / 2; i < n; i++) {
-            if (isVowel(s.charAt(i))) {
-                count2++;
-            }
-        }
-
-        return count1 == count2;
+        return count;
     }
 
     private boolean isVowel(char c) {
