@@ -76,6 +76,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [1651-shuffle-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1970-sorting-the-sentence](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
 ## Simulation
 |  |
@@ -93,4 +94,8 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Counting
+|  |
+| ------- |
+| [1823-determine-if-string-halves-are-alike](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 <!---LeetCode Topics End-->
