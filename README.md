@@ -7,6 +7,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Greedy
