@@ -13,6 +13,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0410-split-array-largest-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [0978-valid-mountain-array](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0978-valid-mountain-array) |
 | [1651-shuffle-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
