@@ -10,6 +10,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -35,6 +36,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
@@ -50,6 +52,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 ## Bit Manipulation
 |  |
@@ -115,4 +118,8 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
