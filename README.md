@@ -74,6 +74,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
@@ -87,6 +88,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
@@ -138,4 +140,8 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
