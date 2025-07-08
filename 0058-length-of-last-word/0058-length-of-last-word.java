@@ -9,7 +9,6 @@ class Solution {
             length++;
             i--;
         }
-
         return length;
     }
 }
