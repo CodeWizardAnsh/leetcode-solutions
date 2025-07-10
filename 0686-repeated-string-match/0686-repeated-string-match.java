@@ -1,13 +1,13 @@
 class Solution {
     public int repeatedStringMatch(String a, String b) {
-        String ans = a;
-        int i = 1;  // one repeat of a already
+        if (a.contains(b)) return 1;
 
-        while (!ans.contains(b)) {
-            ans += a;
+        StringBuilder ans = new StringBuilder(a);
+        int i = 1;
+
+        while (!ans.toString().contains(b)) {
+            ans.append(a);
             i++;
-
-            // fix: repeat a maximum of b.length() / a.length() + 2 times
             if (i > (b.length() / a.length()) + 2) {
                 return -1;
             }
