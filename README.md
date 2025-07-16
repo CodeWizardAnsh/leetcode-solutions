@@ -83,6 +83,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0043-multiply-strings](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
+| [0227-basic-calculator-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0556-next-greater-element-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -102,6 +103,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0058-length-of-last-word](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0520-detect-capital) |
@@ -165,4 +167,5 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0227-basic-calculator-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 <!---LeetCode Topics End-->
