@@ -47,6 +47,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0209-minimum-size-subarray-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1321-get-equal-substrings-within-budget](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +65,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [1321-get-equal-substrings-within-budget](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -114,6 +116,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0686-repeated-string-match](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0742-to-lower-case) |
 | [1205-defanging-an-ip-address](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
+| [1321-get-equal-substrings-within-budget](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1651-shuffle-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1651-shuffle-string) |
 | [1764-maximum-repeating-substring](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -154,6 +157,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [1321-get-equal-substrings-within-budget](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 ## Trie
 |  |
 | ------- |
