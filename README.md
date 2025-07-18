@@ -14,6 +14,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0209-minimum-size-subarray-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0539-minimum-time-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0978-valid-mountain-array) |
@@ -39,6 +40,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0539-minimum-time-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0958-sort-array-by-parity-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1970-sorting-the-sentence](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
 ## Binary Search
@@ -87,6 +89,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0539-minimum-time-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Recursion
@@ -109,6 +112,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0242-valid-anagram](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0520-detect-capital](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0520-detect-capital) |
+| [0539-minimum-time-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
