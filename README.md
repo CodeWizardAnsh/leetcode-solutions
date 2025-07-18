@@ -91,6 +91,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0231-power-of-two](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0539-minimum-time-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Recursion
 |  |
@@ -128,6 +129,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1894-merge-strings-alternately](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [1970-sorting-the-sentence](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
