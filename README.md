@@ -97,6 +97,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | ------- |
 | [0050-powx-n](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0231-power-of-two) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [1205-defanging-an-ip-address](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1321-get-equal-substrings-within-budget](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1651-shuffle-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1651-shuffle-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1764-maximum-repeating-substring](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1797-goal-parser-interpretation) |
@@ -135,6 +137,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0043-multiply-strings](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Backtracking
 |  |
 | ------- |
