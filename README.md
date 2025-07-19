@@ -135,6 +135,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [1894-merge-strings-alternately](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 | [1970-sorting-the-sentence](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
@@ -142,6 +143,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -183,4 +185,5 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
