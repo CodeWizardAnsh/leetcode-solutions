@@ -33,6 +33,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0344-reverse-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1894-merge-strings-alternately](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
@@ -119,6 +120,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0539-minimum-time-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0686-repeated-string-match) |
@@ -170,6 +172,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 ## Trie
 |  |
@@ -180,6 +183,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | ------- |
 | [0013-roman-to-integer](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
