@@ -45,6 +45,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | ------- |
 | [0049-group-anagrams](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0958-sort-array-by-parity-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1970-sorting-the-sentence](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
@@ -121,6 +122,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0242-valid-anagram](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
@@ -166,6 +168,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Counting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1823-determine-if-string-halves-are-alike) |
 ## String Matching
 |  |
@@ -189,6 +192,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0013-roman-to-integer](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
@@ -196,4 +200,12 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0020-valid-parentheses](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
