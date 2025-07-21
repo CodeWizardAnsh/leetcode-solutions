@@ -81,6 +81,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0137-single-number-ii) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0461-hamming-distance) |
