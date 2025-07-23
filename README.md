@@ -45,6 +45,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | ------- |
 | [0049-group-anagrams](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0958-sort-array-by-parity-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -84,6 +85,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0201-bitwise-and-of-numbers-range](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Math
@@ -122,6 +124,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0227-basic-calculator-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0520-detect-capital) |
@@ -193,6 +196,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0013-roman-to-integer](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0567-permutation-in-string) |
 ## Stack
