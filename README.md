@@ -104,6 +104,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
 | [0227-basic-calculator-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0539-minimum-time-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -132,6 +133,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0242-valid-anagram](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0520-detect-capital) |
@@ -163,6 +165,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | ------- |
 | [0043-multiply-strings](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
