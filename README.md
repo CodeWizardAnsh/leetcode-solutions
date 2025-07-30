@@ -88,6 +88,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0389-find-the-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
 |  |
 | ------- |
