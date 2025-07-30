@@ -136,6 +136,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0680-valid-palindrome-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0742-to-lower-case) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1321-get-equal-substrings-within-budget](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1651-shuffle-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1651-shuffle-string) |
@@ -204,6 +205,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Heap (Priority Queue)
 |  |
