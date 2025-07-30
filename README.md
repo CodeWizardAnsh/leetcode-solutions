@@ -137,6 +137,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0680-valid-palindrome-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1205-defanging-an-ip-address) |
 | [1321-get-equal-substrings-within-budget](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
@@ -181,6 +182,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0812-rotate-string) |
 | [1764-maximum-repeating-substring](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 ## Sliding Window
 |  |
