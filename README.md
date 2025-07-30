@@ -97,6 +97,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0043-multiply-strings) |
@@ -119,6 +120,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0020-valid-parentheses) |
@@ -208,6 +210,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0242-valid-anagram) |
