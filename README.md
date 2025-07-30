@@ -6,6 +6,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -27,6 +28,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -69,6 +71,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
