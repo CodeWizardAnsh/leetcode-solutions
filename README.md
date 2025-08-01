@@ -68,12 +68,14 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0152-maximum-product-subarray](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1764-maximum-repeating-substring](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1764-maximum-repeating-substring) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
 |  |
@@ -145,6 +147,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0557-reverse-words-in-a-string-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0742-to-lower-case](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0742-to-lower-case) |
@@ -224,6 +227,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
+| [0678-valid-parenthesis-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Heap (Priority Queue)
