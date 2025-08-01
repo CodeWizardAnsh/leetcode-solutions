@@ -12,7 +12,7 @@ class Solution {
                 if (!extraOpenBrackets.isEmpty()) {
                     extraOpenBrackets.pop();
                 } else if (!aestrick.isEmpty()) {
-                    aestrick.pop(); // * is trated as (
+                    aestrick.pop(); 
                 } else {
                     return false;
                 }
