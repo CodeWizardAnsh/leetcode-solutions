@@ -109,6 +109,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0227-basic-calculator-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
@@ -142,6 +143,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0412-fizz-buzz](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0504-base-7](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0539-minimum-time-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
