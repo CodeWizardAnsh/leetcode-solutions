@@ -109,6 +109,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0227-basic-calculator-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0507-perfect-number) |
 | [0539-minimum-time-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0556-next-greater-element-iii) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1885-count-number-of-homogenous-substrings) |
