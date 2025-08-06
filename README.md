@@ -22,6 +22,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0882-peak-index-in-a-mountain-array](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0978-valid-mountain-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1651-shuffle-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1923-sentence-similarity-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
@@ -42,6 +43,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0567-permutation-in-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0958-sort-array-by-parity-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1923-sentence-similarity-iii) |
 ## Sorting
@@ -53,6 +55,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0451-sort-characters-by-frequency](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0958-sort-array-by-parity-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1970-sorting-the-sentence](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1970-sorting-the-sentence) |
 ## Binary Search
 |  |
@@ -61,6 +64,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0410-split-array-largest-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1321-get-equal-substrings-within-budget](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1321-get-equal-substrings-within-budget) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -225,6 +229,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0389-find-the-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
 | ------- |
