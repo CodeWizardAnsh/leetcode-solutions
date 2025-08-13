@@ -6,6 +6,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0027-remove-element) |
@@ -222,6 +223,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0013-roman-to-integer) |
