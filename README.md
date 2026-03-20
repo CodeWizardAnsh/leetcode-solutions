@@ -258,4 +258,8 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
