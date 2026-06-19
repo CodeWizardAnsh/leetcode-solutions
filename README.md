@@ -242,6 +242,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0678-valid-parenthesis-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -311,4 +312,8 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [1934-confirmation-rate](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
