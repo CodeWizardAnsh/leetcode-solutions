@@ -20,6 +20,7 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 | [0410-split-array-largest-sum](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0539-minimum-time-difference](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0539-minimum-time-difference) |
 | [0643-maximum-average-subarray-i](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0766-toeplitz-matrix](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0978-valid-mountain-array](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0978-valid-mountain-array) |
@@ -316,4 +317,8 @@ This repository contains my personal LeetCode solutions. I solve problems in Jav
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0155-min-stack) |
+## Matrix
+|  |
+| ------- |
+| [0766-toeplitz-matrix](https://github.com/CodeWizardAnsh/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 <!---LeetCode Topics End-->
